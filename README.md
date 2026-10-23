@@ -1,2 +1,2 @@
 # Desarrollo-web-con-React
-Repo dedicado a Desarrollo web con React Natve
+Repo dedicado a Desarrollo web con React
